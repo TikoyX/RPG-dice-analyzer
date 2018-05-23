@@ -2,6 +2,9 @@
 
 The aim of this project is creating an iOS app, that analyzes the dice outcome for a RPG game.  
 It will be written in Swift 4 using xcode 9.  
+  
+I'm pretty new to swift still. And i am therefore having some difficulties programming this. 
+The biggest problem is actually the math behind calculating the dice.  
 
 **The game**
 The game has heroes and enemies (as everything so often have).  
